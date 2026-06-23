@@ -1,3 +1,4 @@
+![Alt text](https://github.com/awesometanukilover/Nonbinary-Linuks/blob/main/nonbinarylinuxlogo.png?raw=true)
 # NonBinary Linux™
 ## What in the world is this bro im crine...?
 
