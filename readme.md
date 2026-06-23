@@ -1,3 +1,8 @@
 # NonBinary Linux™
-NonBinary Linux is an LFS-based distro... Currently in development idk when release is
-Linuks™
+## What in the world is this bro im crine...?
+
+* Non Binary Linux is an LFS-base linux distro that's very cool ig
+* It's meant to be daily-driver capable (but that's up to you if you want to daily drive it or not)
+
+## when is it coming out
+* when I feel like it (No planned release date yet)
