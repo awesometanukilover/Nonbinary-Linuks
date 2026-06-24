@@ -7,3 +7,4 @@
 
 ## when is it coming out
 * when I feel like it (No planned release date yet)
+* There will be another version called trans linux after this is done because yes
