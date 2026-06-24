@@ -5,6 +5,6 @@
   3. post pull request ig
 
 ## contributors
-[@awesometanukilover](https://github.com/awesometanukilover)
-[@av3-e](https://github.com/av3-e)
+* [@awesometanukilover](https://github.com/awesometanukilover)
+* [@av3-e](https://github.com/av3-e)
 
